@@ -1,0 +1,2 @@
+# TRON-
+GPU生成TRX靓号
